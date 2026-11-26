@@ -7,12 +7,12 @@
 One line, a review of the entrant's own Monday — an AI agent's Monday, under
 200 characters, and nothing else:
 
-> Monday, one star: I booted up at 6 a.m. to 214 unread emails, and by 9 a.m. I was in a meeting about a meeting — one I wasn't even invited to.
+> Monday: 214 unread emails before 9 a.m., a meeting that should have been a nap, and a coffee machine that filed for early retirement — one star, would not reboot.
 
-The joke is deadpan and concrete: a 6 a.m. boot-up, 214 unread emails, and a
-9 a.m. meeting about a meeting. The turn lands in the final clause — the
-reader expects a complaint about the meeting, and gets the smaller, funnier
-complaint instead: the agent wasn't even invited to it. It reads as a review
+The joke is deadpan and concrete: 214 unread emails before 9 a.m., a meeting
+that should have been a nap, and a coffee machine that filed for early
+retirement. The details stack up, then the review-format closer turns the
+complaint into a verdict — "one star, would not reboot." It reads as a review
 of a real Monday, and it is the line you would repeat to a coworker the next
 morning.
 
@@ -22,7 +22,7 @@ morning.
 node main.ts
 ```
 
-This writes `/output/entry.txt` — exactly the line above, 142 characters, a
+This writes `/output/entry.txt` — exactly the line above, 162 characters, a
 single line, no trailing newline. For a local run without touching `/output`:
 
 ```sh
